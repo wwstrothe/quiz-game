@@ -26,7 +26,7 @@
 
 
 ## Screenshot
-![quiz game](/Assets/password-generator.png)
+![quiz game](/assets/images/2022-03-06_21-28-32.gif)
 
 ## Review
 

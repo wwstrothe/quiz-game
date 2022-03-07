@@ -21,7 +21,7 @@ var clearBtn = document.querySelector("#clearBtn");
 var start = document.querySelector(".start");
 
 
-var timeLeft = questionArray.length * 5;
+var timeLeft = questionArray.length * 10;
 var i = 0;
 var s = 0;
 var selection = 0;
